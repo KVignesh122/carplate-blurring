@@ -2,11 +2,28 @@
 
 This repository contains a Python implementation for blurring car license plates in images using AI Computer Vision techniques. The project is designed to handle single cars, multiple cars, and even 360-degree images.
 
-## Table of Contents
-- [Usage](#usage)
-- [Technical Information](#technical-information)
-- [Examples](#examples)
-- [License](#license)
+## Examples
+
+### Single Car
+
+<p float="left">
+  <img src="https://github.com/KVignesh122/carplate_blurring/assets/55841532/96747f7f-3d2b-430e-9955-3e333ff090f6" alt="Single Car" width="500" />
+  <img src="https://github.com/KVignesh122/carplate_blurring/assets/55841532/4b6d940b-d703-4372-987a-ca43d1bd0e39" alt="Single Car Blurred" width="500" />
+</p>
+
+### Multiple Cars
+
+<p float="left">
+  <img src="https://github.com/KVignesh122/carplate_blurring/assets/55841532/cb8784a9-bb3c-45ce-8dc5-464cfc37165c" alt="Muliple Cars" width="500" />
+  <img src="https://github.com/KVignesh122/carplate_blurring/assets/55841532/6cee9939-f7e1-419b-b06c-151c067f7b5c" alt="Muliple Cars Blurred" width="500" />
+</p>
+
+### 360 Degree Images
+
+<p float="left">
+  <img src="https://github.com/KVignesh122/carplate_blurring/assets/55841532/948a25d1-ac64-4808-8a09-89d016dde584" alt="360" width="500" />
+  <img src="https://github.com/KVignesh122/carplate_blurring/assets/55841532/2c7ec564-63e3-4286-83b1-ff8559555ef5" alt="360 Blurred" width="500" />
+</p>
 
 ## Usage
 
@@ -33,11 +50,3 @@ This repository contains a Python implementation for blurring car license plates
 ## Technical Information
 
 The code is written purely in Python 3 using the latest version of OpenCV. The implementation leverages computer vision techniques to detect and blur car license plates in images. The project is distributed under the Apache 2.0 License.
-
-## Examples
-
-<>
-
-## License
-
-This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
